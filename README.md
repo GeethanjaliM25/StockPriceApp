@@ -1,5 +1,5 @@
 # Stock Price Prediction Web App 📈
-A simple web application that predicts future stock prices using historical data. Built with **Python** and **Streamlit**, it fetches live stock data and shows predictions with interactive charts. 
+A simple web application that predicts future stock prices using historical data. Built with **Python** and **Streamlit**, it fetches live stock data and shows predictions with interactive charts.  
 ## Features
 - Input any stock ticker (e.g., AAPL, GOOGL, MSFT)
 - Predict stock prices for the next N days
